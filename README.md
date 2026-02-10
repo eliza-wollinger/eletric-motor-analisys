@@ -17,3 +17,5 @@ sampled at **2 Hz**. It includes electrical signals, motor speed, torque, and te
 ---
 
 ![Dashboard](https://github.com/eliza-wollinger/eletric-motor-analisys/blob/main/imag/motor_dashboard.gif)
+![Heatmap](https://github.com/eliza-wollinger/eletric-motor-analisys/blob/main/imag/motor_relationships.gif)
+![Temperature](https://github.com/eliza-wollinger/eletric-motor-analisys/blob/main/imag/motor_temp_isometric.gif)
